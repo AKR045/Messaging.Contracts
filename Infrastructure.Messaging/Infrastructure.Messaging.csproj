@@ -4,7 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>Circle360.Messaging.Contracts</PackageId>
-    <Version>1.2.0</Version>
+    <Version>1.3.0</Version>
     <Authors>Ahmed Kamel</Authors>
     <Company>Circle360</Company>
     <Description>Contracts and DTOs for messaging between microservices</Description>
@@ -12,6 +12,19 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageOutputPath>..\NuGetPackages</PackageOutputPath>
     <Readme>README.md</Readme>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageIcon>168750409.png</PackageIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="C:\Users\AKR\Downloads\168750409.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
