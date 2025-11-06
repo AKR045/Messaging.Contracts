@@ -8,9 +8,10 @@
     <Authors>Ahmed Kamel</Authors>
     <Company>Circle360</Company>
     <Description>Contracts and DTOs for messaging between microservices</Description>
-    <RepositoryUrl>https://github.com/your-repo-url</RepositoryUrl>
+    <RepositoryUrl>https://github.com/AKR045/Messaging.Contracts</RepositoryUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageOutputPath>..\NuGetPackages</PackageOutputPath>
+    <Readme>README.md</Readme>
   </PropertyGroup>
 
 </Project>
