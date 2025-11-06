@@ -4,7 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>Circle360.Messaging.Contracts</PackageId>
-    <Version>1.1.0</Version>
+    <Version>1.2.0</Version>
     <Authors>Ahmed Kamel</Authors>
     <Company>Circle360</Company>
     <Description>Contracts and DTOs for messaging between microservices</Description>
